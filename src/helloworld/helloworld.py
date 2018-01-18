@@ -11,6 +11,7 @@ def main():
     Joel S. Welling
     ThomasJae Garcia
     Cassidy Smith
+    Doug Trippe
     """
 
 
