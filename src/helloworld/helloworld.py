@@ -10,6 +10,7 @@ def main():
     Hello World, from...
     Joel S. Welling
     Cassidy Smith
+    Doug Trippe
     """
 
 
