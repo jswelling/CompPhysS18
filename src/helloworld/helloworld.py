@@ -14,6 +14,7 @@ def main():
     Cassidy Smith
     Cassidy Smith
     Doug Trippe
+    Doug Trippe 2
     """
 
 
