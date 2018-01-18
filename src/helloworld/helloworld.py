@@ -12,6 +12,7 @@ def main():
     ThomasJae Garcia
     ThomasJae Garcia (again)
     Cassidy Smith
+    Cassidy Smith
     Doug Trippe
     """
 
